@@ -5,7 +5,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    background: #fff;
+    background: #070719;
     overflow: hidden;
 }
 
@@ -123,7 +123,7 @@ h6 {
     justify-content: center;
     align-items: center;
     background: url('https://image.ibb.co/cO9Lxq/login-bg.jpg') no-repeat center center / cover;
-    height: 100vh;
+    height: 100%;
     text-align: center;
 }
 
